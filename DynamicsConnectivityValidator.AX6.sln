@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicsConnectivityValidator", "DynamicsConnectivityValidator.AX6\DynamicsConnectivityValidator.csproj", "{CEE843DF-C3E6-4E73-8D58-D2535D5EC94E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{44FA7D81-D689-4F40-8C84-F46FBA898F9B}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\NuGet.Config = .nuget\NuGet.Config
+		.nuget\NuGet.targets = .nuget\NuGet.targets
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CEE843DF-C3E6-4E73-8D58-D2535D5EC94E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEE843DF-C3E6-4E73-8D58-D2535D5EC94E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEE843DF-C3E6-4E73-8D58-D2535D5EC94E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEE843DF-C3E6-4E73-8D58-D2535D5EC94E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
